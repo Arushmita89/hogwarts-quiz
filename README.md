@@ -3,7 +3,7 @@
 
 ## Project Info
 
-**URL**: https://yourprojecturl.com
+**URL**: https://hogwartsquizbyarushmita.netlify.app/
 
 ## How to Edit
 
